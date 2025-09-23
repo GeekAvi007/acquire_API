@@ -1,0 +1,24 @@
+{
+  "name": "acquire_api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/GeekAvi007/acquire_API#readme",
+  "bugs": {
+    "url": "https://github.com/GeekAvi007/acquire_API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekAvi007/acquire_API.git"
+  },
+  "license": "ISC",
+  "author": "Avishek",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "node --watch src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
