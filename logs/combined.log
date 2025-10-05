@@ -37,3 +37,8 @@
 {"level":"error","message":"Error Creating User : Error: User with this Email already exists","service":"acquire-API"}
 {"level":"error","message":"Signup Error User with this Email already exists","service":"acquire-API","stack":"Error: User with this Email already exists\n    at createUser (file:///Users/avishekmukherjee/Documents/acquire_API/src/services/auth.service.js:25:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signup (file:///Users/avishekmukherjee/Documents/acquire_API/src/controllers/auth.controller.js:22:22)"}
 {"level":"info","message":"::1 - - [24/Sep/2025:15:33:50 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 31 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquire-API"}
+{"level":"info","message":"User bb@bb.com authenticated successfully!","service":"acquire-API"}
+{"level":"info","message":"User signed in successfully, bb@bb.com","service":"acquire-API"}
+{"level":"info","message":"::1 - - [05/Oct/2025:14:06:25 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 94 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquire-API"}
+{"level":"info","message":"User signed out successfully","service":"acquire-API"}
+{"level":"info","message":"::1 - - [05/Oct/2025:14:06:50 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 43 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquire-API"}
