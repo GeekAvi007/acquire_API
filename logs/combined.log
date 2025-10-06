@@ -42,3 +42,51 @@
 {"level":"info","message":"::1 - - [05/Oct/2025:14:06:25 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 94 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquire-API"}
 {"level":"info","message":"User signed out successfully","service":"acquire-API"}
 {"level":"info","message":"::1 - - [05/Oct/2025:14:06:50 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 43 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:07:31:13 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:07:31:45 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"level":"info","message":"::1 - - [06/Oct/2025:07:31:46 +0000] \"GET /health HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:07:31:46 +0000] \"GET /health HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:07:31:48 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:30:55 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:30:56 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:30:56 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:30:57 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"info","message":"Arcjet decision for guest:","path":"/health","reason":"[object Object]","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked!","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:30:58 +0000] \"GET /health HTTP/1.1\" 403 69 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:33:28 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:33:28 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:34:57 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:34:57 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:36:06 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:36:07 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:36:08 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:38:50 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquire-API","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::1 - - [06/Oct/2025:08:38:51 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquire-API"}
